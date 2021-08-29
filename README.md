@@ -7,6 +7,11 @@ I am a software engineer building Microsoft Teams Search. I have been employed i
 I specialize in frontend technologies. I blog about web development and software engineering [here](https://rajatexplains.com). I love solving real life problems and thinking and explaining concepts in terms of metaphors.
 
 ---
+
+### 🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Graphql logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="Yarn logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="Apollo Client logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm logo" width="50" height="50">
+
 <!--
 **rajatjain-21/rajatjain-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
