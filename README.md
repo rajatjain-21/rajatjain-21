@@ -16,7 +16,11 @@ I specialize in frontend technologies. I blog about web development and software
 
 ### 📘 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-
+- [Posts from @javascript_to_the_rescue](https://rajatexplains.com/posts-from-javascripttotherescue)
+- [Log Appropriately](https://rajatexplains.com/log-appropriately)
+- [Shuffle an array in place](https://rajatexplains.com/shuffle-an-array-in-place)
+- [In place deduping an array](https://rajatexplains.com/in-place-deduping-an-array)
+- [LocalStorage wrapper with expiration](https://rajatexplains.com/localstorage-wrapper-with-expiration)
 <!-- BLOG-POST-LIST:END -->
 
 📋 [...more articles](https://rajatexplains.com)
