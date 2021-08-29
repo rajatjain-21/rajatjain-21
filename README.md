@@ -1,9 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rajat Jain!
-![GitHub followers](https://img.shields.io/github/followers/rajatjain-21?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/rajatjain-21?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hope_matters?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/rajat_codes?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frajat_codes)
+---
+![GitHub followers](https://img.shields.io/github/followers/rajatjain-21?style=social)![GitHub User's stars](https://img.shields.io/github/stars/rajatjain-21?style=social)![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hope_matters?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/rajat_codes?style=social)![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frajat_codes)
+
+I am a software engineer building Microsoft Teams Search. I have been employed in the industry for 3+ years now and have been teaching and mentoring students and professionals for over 5 years now. 
+
+I specialize in frontend technologies. I blog about web development and software engineering [here](https://rajatexplains.com). I love solving real life problems and thinking and explaining concepts in terms of metaphors.
+
+---
 <!--
 **rajatjain-21/rajatjain-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
