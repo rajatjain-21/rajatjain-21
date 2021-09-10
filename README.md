@@ -16,11 +16,11 @@ I specialize in frontend technologies. I blog about web development and software
 
 ### 📘 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Easy Implementation of Promise in JS](https://rajatexplains.com/easy-implementation-of-promise-in-js)
 - [4 must know cool features in Javascript](https://rajatexplains.com/4-must-know-cool-features-in-javascript)
 - [Put most of your logic in reducers](https://rajatexplains.com/put-most-of-your-logic-in-reducers)
 - [Posts from @javascript_to_the_rescue](https://rajatexplains.com/posts-from-javascripttotherescue)
 - [Log Appropriately](https://rajatexplains.com/log-appropriately)
-- [Shuffle an array in place](https://rajatexplains.com/shuffle-an-array-in-place)
 <!-- BLOG-POST-LIST:END -->
 
 📋 [...more articles](https://rajatexplains.com)
