@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rajat Jain!
+### Hi there 👋, I am Rajat Jain!
 ---
 ![GitHub followers](https://img.shields.io/github/followers/rajatjain-21?style=social)![GitHub User's stars](https://img.shields.io/github/stars/rajatjain-21?style=social)![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hope_matters?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/rajat_codes?style=social)![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frajat_codes)
 
