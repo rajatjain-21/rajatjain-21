@@ -16,11 +16,11 @@ I specialize in frontend technologies. I blog about web development and software
 
 ### 📘 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Make your async functions fast](https://rajatexplains.com/make-your-async-functions-fast)
+- [Design an LRU Cache](https://rajatexplains.com/design-an-lru-cache)
+- [Trim a binary search tree](https://rajatexplains.com/trim-a-binary-search-tree)
+- [useState hook behind the hood](https://rajatexplains.com/usestate-hook-behind-the-hood)
 - [Easy Implementation of Promise in JS](https://rajatexplains.com/easy-implementation-of-promise-in-js)
-- [4 must know cool features in Javascript](https://rajatexplains.com/4-must-know-cool-features-in-javascript)
-- [Put most of your logic in reducers](https://rajatexplains.com/put-most-of-your-logic-in-reducers)
-- [Posts from @javascript_to_the_rescue](https://rajatexplains.com/posts-from-javascripttotherescue)
-- [Log Appropriately](https://rajatexplains.com/log-appropriately)
 <!-- BLOG-POST-LIST:END -->
 
 📋 [...more articles](https://rajatexplains.com)
