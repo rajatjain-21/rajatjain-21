@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rajat Jain!
 ---
-![GitHub followers](https://img.shields.io/github/followers/rajatjain-21?style=social)![GitHub User's stars](https://img.shields.io/github/stars/rajatjain-21?style=social)![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hope_matters?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/rajat_codes?style=social)![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frajat_codes)
+![GitHub followers](https://img.shields.io/github/followers/rajatjain-21?style=social)![GitHub User's stars](https://img.shields.io/github/stars/rajatjain-21?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/rajat_codes?style=social)![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frajat_codes)
 
 I am a software engineer at Uber. I have been employed in the industry for 8 years now and have been teaching and mentoring students and professionals for over 5 years now. 
 
